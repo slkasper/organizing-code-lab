@@ -1,4 +1,5 @@
 flask
 pytest
 psycopg2-binary
+dotenv
 
